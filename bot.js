@@ -97,7 +97,7 @@ function respond() {
   }
     else if(request.text && botRegex4th.test(request.text)) {
     this.res.writeHead(200);
-    postMessage("https://i.imgur.com/PA90yJZ.png");
+    postMessage("https://i.groupme.com/1269x1500.jpeg.91e0ed86edc74f7c995fdbd394091792.large");
     this.res.end();
   }
   else {
